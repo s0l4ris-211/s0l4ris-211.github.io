@@ -18,6 +18,7 @@ ___
 # text in gray
 @@ text in purple (and bold)@@
 ```
+$${\color{red}Red}$$
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
