@@ -19,6 +19,10 @@ ___
 @@ text in purple (and bold)@@
 ```
 
+```js
+   #28B463
+```
+
 ## Emphasis:
 -------------
 **Bold Text**
