@@ -19,9 +19,7 @@ ___
 @@ text in purple (and bold)@@
 ```
 
-```js
-   #28B463
-```
+$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 ## Emphasis:
 -------------
