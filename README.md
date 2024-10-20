@@ -68,6 +68,7 @@ _Italic Text_
 ----------
 
 1. Unordered:
+=============
 
 + Create a list by starting a line with '+','-', or '*' 
 + Sub-lists are made by indenting 2 spaces:
