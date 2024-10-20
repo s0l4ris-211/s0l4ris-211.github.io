@@ -1,3 +1,4 @@
+# This is a public repo
 COPYING -- Describes the terms under which Villain is distributed. A copy
 of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License is appended to this file.
 
